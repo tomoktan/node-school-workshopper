@@ -1,0 +1,14 @@
+原文：
+  # Your Mission
+
+  Starting with your solution from the previous lesson, assign a value to quux
+  inside foo() (don't use var or let). The value should be different to the
+  value assigned when defining quux inside zip().
+
+  Once complete, execute scope-chains-closures verify <your-file.js> to verify your
+  solution.
+
+意訳：
+  レッスン2で作成したファイルを流用してください。
+  関数foo内でquux変数に値を代入してください。（var, letを使用しないでください）
+  関数zip内でquux変数に先ほど代入した値とは別の値を代入してください。
