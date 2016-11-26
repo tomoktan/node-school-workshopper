@@ -1,0 +1,14 @@
+原文：
+  # Your Mission
+
+  Modify your solution from lesson 1 so foo contains a function zip
+  which itself contains one variable lexically scoped called quux
+
+  Once complete, execute scope-chains-closures verify <your-file.js> to verify your
+  solution.
+
+意訳：
+  # 設問
+
+  レッスン1で作成した関数fooの中に関数zipを作成してください。
+  また、関数zipのレキシカルスコープで変数quuxを作成してください。
