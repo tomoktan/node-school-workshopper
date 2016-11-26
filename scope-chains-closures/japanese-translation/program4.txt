@@ -1,0 +1,13 @@
+原文：
+  # Your Mission
+
+  Modify your solution from the previous lesson to set bar = true inside zip(),
+  then return the function zip as the result of foo()
+
+  Once complete, execute scope-chains-closures verify <your-file.js> to verify your
+  solution.
+
+意訳：
+  レッスン3で作成したファイルを流用してください。
+  関数zip内で「bar = true」を行ってください。
+  関数fooの結果として関数zipを返してください。
